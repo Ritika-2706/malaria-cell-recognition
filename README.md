@@ -52,7 +52,11 @@ Evaluate and Visualize: Assess model performance, generate metrics, and plot tra
 
 
 ## PROGRAM
+
 ```
+Name: Ritika S
+Register Number: 212221240046
+
 # to share the GPU
 import tensorflow as tf
 from tensorflow.compat.v1.keras.backend import set_session
@@ -200,11 +204,9 @@ plt.axis("off")
 plt.imshow(img)
 plt.show()
 ```
-### Name:
 
-### Register Number:
 
-Include your code here
+
 
 ## OUTPUT
 
